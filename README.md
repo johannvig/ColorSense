@@ -22,4 +22,7 @@ The app requires the following permissions:
 - Camera: To take photos for color detection.
 - Microphone: To enable voice feedback functionality.
 
-![Capture d'écran 2024-04-30 201142](https://github.com/johannvig/Detection-color-blind-person/assets/102874093/55752f11-b57c-45f1-9ee3-1f77acc6ac16)
+<p align="center">
+  <img src="https://github.com/johannvig/Detection-color-blind-person/assets/102874093/55752f11-b57c-45f1-9ee3-1f77acc6ac16" alt="Screenshot 2024-04-30 201142">
+</p>
+
